@@ -3,8 +3,8 @@
 Кратко: начинающий QA (manual) — тестирование веб-приложений и API. Готов к стажировке и джун-позициям, открыт к удалённой работе.
 
 ## Контакты
-- Email: your.email@example.com
-- Telegram: @your_telegram
+- Email: afrol95300@gmail.com
+- Telegram: @fish_518
 - GitHub: https://github.com/yourusername/qa-portfolio
 
 ## Навыки
