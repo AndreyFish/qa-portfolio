@@ -1,55 +1,56 @@
-[README.md](https://github.com/user-attachments/files/22458205/README.md)
-# QA Portfolio — Andrey Fish
+# QA Portfolio — Andrei Bogoliubskii
 
-Учебное портфолио начинающего QA-инженера.  
-В репозитории собраны проекты по ручному и автоматизированному тестированию, SQL-запросы и примеры API-тестирования.
+[![Telegram](https://img.shields.io/badge/Telegram-@fish_518-0088cc?logo=telegram)](https://t.me/fish_518)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://linkedin.com/in/qa-trainee-andrey)
+[![Email](https://img.shields.io/badge/Email-afrol95300@gmail.com-D14836?logo=gmail)](mailto:afrol95300@gmail.com)
 
-## 👨‍💻 Обо мне
-- Начинающий тестировщик (Manual / QA trainee)  
-- Цель: стажировка или Junior QA, удалённая работа  
-- Готов к интенсивному обучению и развитию в тестировании  
-- Открыт к сотрудничеству с российскими и зарубежными компаниями  
-
-## 📬 Контакты
-- Email: afrol95300@gmail.com  
-- Telegram: @fish_518 (https://t.me/fish_518)  
-- GitHub: https://github.com/AndreyFish/qa-portfolio  
-
-## 🛠 Навыки
-- **Тестирование:** тест-кейсы, баг-репорты, чек-листы  
-- **Инструменты:** Postman, Git/GitHub, Jira/Trello  
-- **Языки и технологии:** SQL (базовые запросы), Python (pytest), Linux (базовые команды)  
-- **Английский:** A1 — читаю документацию с переводчиком  
-
-## 📂 Проекты
-1. **manual-testing/**  
-   - Тест-кейсы (пример для формы авторизации)  
-   - Баг-репорты (описание найденных дефектов с приоритетами)  
-
-2. **api-testing/**  
-   - Коллекция запросов в Postman к публичному API  
-   - Проверка статус-кодов, структуры JSON  
-
-3. **sql-queries/**  
-   - Примеры SQL-запросов: SELECT, JOIN, GROUP BY, LIMIT  
-
-4. **automation/**  
-   - Простые автотесты на Python (pytest)  
-   - `requirements.txt` для установки зависимостей  
-
-## 🚀 Как запустить автотесты
-```bash
-# Клонировать репозиторий
-git clone https://github.com/AndreyFish/qa-portfolio.git
-cd qa-portfolio
-
-# Установить зависимости
-pip install -r automation/requirements.txt
-
-# Запустить тесты
-pytest -q automation/
-```
+> **QA Trainee** | Manual & API Testing | SQL | Basic Test Automation (Python/pytest)  
+> Actively seeking a **remote QA internship** or **Junior QA position**. Open to freelance/self-employed collaboration.
 
 ---
 
-✨ Этот репозиторий создан как учебное портфолио для первых откликов на вакансии QA.  
+## 🎯 About This Portfolio
+
+This repository showcases my learning journey in **Software Quality Assurance**. It includes:
+- Sample test documentation (test cases, checklists, bug reports)
+- SQL queries for data validation
+- Basic automated tests using Python and pytest
+- Examples of QA workflows and tools usage
+
+Everything is created during self-study and practice. I’m open to feedback and constantly improving!
+
+---
+
+## 🛠️ Technical Skills
+
+- **Manual Testing**: Test cases, checklists, structured bug reports  
+- **API Testing**: Postman (status codes, JSON validation)  
+- **SQL**: `SELECT`, `JOIN`, `GROUP BY`, `LIMIT` — for backend data verification  
+- **Test Automation**: Python, pytest (basic scripting)  
+- **Tools**: Git / GitHub, Linux (CLI basics), Trello, Notion  
+- **English**: A1 (can read technical documentation with translation support)
+
+---
+
+## 📂 Portfolio Contents
+
+| Section | Description | Link |
+|--------|-------------|------|
+| 📝 **Test Documentation** | Test plans, checklists, test design examples | [View in Notion](https://tinyurl.com/mt4apu88) |
+| 🐞 **Bug Reports** | Realistic, well-structured bug reports with steps to reproduce | [View in Notion](https://tinyurl.com/464d6w35) |
+| 📊 **QA Workflow** | Personal Kanban board simulating task tracking | [View in Trello](https://tinyurl.com/3f8mt544) |
+
+> 💡 All external links are part of my learning portfolio and demonstrate practical QA skills.
+
+---
+
+## 📬 Let’s Connect!
+
+I’m actively looking for a **QA internship** or **Junior QA role** (remote, freelance/self-employed OK).  
+Feel free to reach out via:
+
+- **Email**: [afrol95300@gmail.com](mailto:afrol95300@gmail.com)  
+- **Telegram**: [@fish_518](https://t.me/fish_518)  
+- **LinkedIn**: [linkedin.com/in/qa-trainee-andrey](https://linkedin.com/in/qa-trainee-andrey)
+
+Thank you for visiting my portfolio! 🙌
