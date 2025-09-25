@@ -36,11 +36,13 @@ Everything is created during self-study and practice. I’m open to feedback and
 
 | Section | Description | Link |
 |--------|-------------|------|
-| 📝 **Test Documentation** | Test plans, checklists, test design examples | [View in Notion](https://tinyurl.com/mt4apu88) |
-| 🐞 **Bug Reports** | Realistic, well-structured bug reports with steps to reproduce | [View in Notion](https://tinyurl.com/464d6w35) |
-| 📊 **QA Workflow** | Personal Kanban board simulating task tracking | [View in Trello](https://tinyurl.com/3f8mt544) |
+| 📝 **Test Cases** | Structured test cases (ID, Steps, Expected Result) | [`test_cases.md`](test_cases.md) |
+| 🐞 **Bug Reports** | Realistic bug reports with reproduction steps | [`bug_reports.md`](bug_reports.md) |
+| 🗄️ **SQL Queries** | Data validation examples for backend testing | [`sql_examples.sql`](sql_examples.sql) |
+| 🤖 **Test Automation** | Basic API test using Python and pytest | [`pytest_example.py`](pytest_example.py) |
+| 📊 **QA Workflow** | Personal Kanban board (Trello) | [View in Trello](https://tinyurl.com/3f8mt544) |
 
-> 💡 All external links are part of my learning portfolio and demonstrate practical QA skills.
+> 💡 All files are stored directly in this repository to demonstrate real-world QA documentation practices.
 
 ---
 
