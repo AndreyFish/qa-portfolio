@@ -39,7 +39,7 @@ Everything is created during self-study and practice. I’m open to feedback and
 | 📝 **Test Cases** | Structured test cases (ID, Steps, Expected Result) | [`test_cases.md`](test_cases.md) |
 | 🐞 **Bug Reports** | Realistic bug reports with reproduction steps | [`bug_reports.md`](bug_reports.md) |
 | 🗄️ **SQL Queries** | Data validation examples for backend testing | [`sql_examples.sql`](sql_examples.sql) |
-| 🤖 **Test Automation** | Basic API test using Python and pytest | [`pytest_example.py`](pytest_example.py) |
+| 🤖 **Test Automation** | Basic API automation (Python + pytest). Full guide and examples are in the dedicated file. | [`test_automation.md`](test_automation.md) |
 | 📊 **QA Workflow** | Personal Kanban board (Trello) | [View in Trello](https://tinyurl.com/3f8mt544) |
 
 > 💡 All files are stored directly in this repository to demonstrate real-world QA documentation practices.
