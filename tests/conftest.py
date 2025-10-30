@@ -1,12 +1,13 @@
+# conftest.py
 import pytest
+import requests
 
 @pytest.fixture
+def api_base_url():
+    return "https://jsonplaceholder.typicode.com"   
+import pytest
+import requests
+
+#@pytest.fixture
 def base_url():
-    # Example base URL for public demo API
-    return "https://jsonplaceholder.typicode.com"
-
-@pytest.fixture
-def client():
-    # simple requests-style client placeholder
-    import requests
-    return requests
+    return "https://bookstore-demo.herokuapp.com"   

@@ -1,0 +1,10 @@
+# math_utils.py
+# def add(a, b):
+    # return a - b  # ОШИБКА: вместо + стоит -   
+# math_utils.py
+#def add(a, b):
+    #return a + b   
+def divide(a, b):
+    if b == 0:
+        raise ValueError("Деление на ноль запрещено")
+    return a / b   
