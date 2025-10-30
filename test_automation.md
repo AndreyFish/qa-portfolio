@@ -17,13 +17,13 @@
 ## Включённые файлы
 Ниже — файлы автотестов и вспомогательные модули, уже находящиеся (или планируемые) в репозитории:
 
-- [`test_bookstore.py`](test_bookstore.py) — тесты для магазина/книг (пример функциональных API-тестов)
-- [`test_api.py`](test_api.py) — общие API-тесты
-- [`conftest.py`](conftest.py) — фикстуры и вспомогательная настройка pytest
-- [`math_utils.py`](math_utils.py) — вспомогательный модуль с математическими функциями (unit-тесты)
-- [`test_math_utils.py`](test_math_utils.py) — тесты для math_utils.py
-- [`test_math_utils1.py`](test_math_utils1.py) — дополнительный набор тестов для math_utils
-- [`test_users.py`](test_users.py) — тесты для пользователей / endpoints пользователей
+- [test_bookstore.py](tests/test_bookstore.py) — тесты для магазина/книг (пример функциональных API-тестов)
+- [test_api.py](tests/test_api.py) — общие API-тесты
+- [`conftest.py`](tests/conftest.py) — фикстуры и вспомогательная настройка pytest
+- [`math_utils.py`](tests/math_utils.py) — вспомогательный модуль с математическими функциями (unit-тесты)
+- [test_math_utils.py](tests/test_math_utils.py) — тесты для math_utils.py
+- [test_math_utils1.py](tests/test_math_utils1.py) — дополнительный набор тестов для math_utils
+- [test_users.py](tests/test_users.py) — тесты для пользователей / endpoints пользователей
 
 
 ## Рекомендуемая структура (пример)
